@@ -20,7 +20,7 @@ const App = () => {
 
   return (
     <AppContext.Provider value={initialState}>
-      <BrowserRouter>
+      <BrowserRouter basename="/box-shop" >
         <Layout>
           <Routes>
             <Route path="/" element={<Home />} />

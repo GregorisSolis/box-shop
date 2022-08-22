@@ -1,7 +1,8 @@
 {
-  "name": "react-shop",
+  "homepage": "https://GregorisSolis.github.io/box-shop/",
+  "name": "box-shop",
   "version": "1.0.0",
-  "description": "react eshop",
+  "description": "box eshop",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
